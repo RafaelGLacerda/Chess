@@ -1,6 +1,6 @@
-# ♟️ CommonChess https://commonchess.onrender.com/
+# ♟️ CommonChess https://commonchess.onrender.com
 
-**ComumChess** é um jogo de xadrez online desenvolvido com foco em simplicidade e performance. Construído com **Next.js**, **TypeScript** e **Tailwind CSS**, este projeto permite partidas de xadrez modernas e responsivas diretamente no navegador.
+**CommonChess** é um jogo de xadrez online desenvolvido com foco em simplicidade e performance. Construído com **Next.js**, **TypeScript** e **Tailwind CSS**, este projeto permite partidas de xadrez modernas e responsivas diretamente no navegador.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -14,7 +14,7 @@
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/comumchess.git
+   git clone https://github.com/seu-usuario/chess.git
    cd comumchess
    npm install --force
    npm run build

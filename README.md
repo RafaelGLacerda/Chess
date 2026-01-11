@@ -1,4 +1,4 @@
-# ♟️ ComumChess https://commonchess.netlify.app/
+# ♟️ CommonChess https://commonchess.onrender.com/
 
 **ComumChess** é um jogo de xadrez online desenvolvido com foco em simplicidade e performance. Construído com **Next.js**, **TypeScript** e **Tailwind CSS**, este projeto permite partidas de xadrez modernas e responsivas diretamente no navegador.
 

@@ -15,6 +15,7 @@
 1. Clone este repositório:
    ```bash
    git clone https://github.com/RafaelGLacerda/Chess.git
+   cd chess
    npm install --force
    npm run build
    npm start
